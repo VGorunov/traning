@@ -1,0 +1,1 @@
+GENERAL_PURCHASE   Milk   140    3
